@@ -10,7 +10,8 @@ Tkinter
 scikit-image
 
 # To run this Project
-pip install requirements.txt
-python main.py
+1.pip install requirements.txt
+
+2.python main.py
 
 # Thank you
